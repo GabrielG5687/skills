@@ -6,7 +6,6 @@ Coleção de skills de agente (Cursor / OpenCode) em formato `SKILL.md`.
 
 | Skill | Descrição |
 | --- | --- |
-| `create-job` | Criação de jobs/tarefas |
 | `design-system-builder` | Construção de design system |
 | `engine-uiux` | Engine de UI/UX |
 | `landing-page-scaffold` | Scaffold de landing pages |
