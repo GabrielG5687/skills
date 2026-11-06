@@ -13,6 +13,7 @@ Coleção de skills de agente (Cursor / OpenCode) em formato `SKILL.md`.
 | `memoria` | Memória de sessões e decisões |
 | `recovery` | Recuperação de contexto |
 | `relembrar` | Consulta ao histórico/memória |
+| `reverse-engine` | Engenharia reversa de sites e aplicações web |
 | `ui-bug-hunter` | Caça a bugs de UI |
 | `ui-color-guard` | Guarda de consistência de cores |
 | `ui-reference` | Reprodução fiel de interfaces a partir de imagem |
